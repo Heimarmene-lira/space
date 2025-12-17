@@ -1,0 +1,48 @@
+{
+  "nav": {
+    "starMap": "Star Map",
+    "gallery": "Gallery",
+    "articles": "Articles"
+  },
+  "starMap": {
+    "title": "Star Map",
+    "subtitle": "See which constellations are visible in your city today",
+    "placeholder": "Enter your city...",
+    "search": "Search",
+    "info": "Information",
+    "viewingFor": "Viewing for",
+    "time": "Time",
+    "visibleConstellations": "Visible constellations",
+    "prompt": "Enter a city to see the constellations above it tonight.",
+    "highlighted": "Highlighted Constellations",
+    "moonPhase": "Moon Phase",
+    "bestViewing": "Best viewing time",
+    "brightestStar": "Brightest star",
+    "area": "Area"
+  },
+  "gallery": {
+    "title": "Space Gallery",
+    "subtitle": "The best space photos from around the world",
+    "searchPlaceholder": "Search images...",
+    "download": "Download",
+    "share": "Share",
+    "loadMore": "Load More"
+  },
+  "articles": {
+    "title": "Space Articles",
+    "subtitle": "Latest news and research about the Universe",
+    "searchPlaceholder": "Search articles...",
+    "sortByDate": "By date",
+    "sortByTitle": "By title",
+    "sortByPopularity": "By popularity",
+    "toggleView": "Toggle view",
+    "minRead": "min read",
+    "readMore": "Read More",
+    "like": "Like",
+    "share": "Share",
+    "bookmark": "Bookmark",
+    "comments": "Comments",
+    "related": "Related Articles",
+    "loadMore": "Load More Articles"
+  }
+}
